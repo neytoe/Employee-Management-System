@@ -14,5 +14,6 @@ namespace Model
 
         //the deptName
         public string DepartmentName { get; set; }
+
     }
 }
